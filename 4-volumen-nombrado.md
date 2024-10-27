@@ -82,6 +82,7 @@ docker run -d --name server-drupal --publish published=9700,target=80 -v <nombre
 _La instalación puede tomar varios minutos, mientras espera realice un diagrama de los contenedores que ha creado en este apartado._
 
 # COMPLETAR CON EL DIAGRAMA SOLICITADO
+![Imagen](img/DIAGRAMA.jpeg)
 
 ### Eliminar un volumen específico
 ```
